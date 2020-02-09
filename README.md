@@ -15,10 +15,13 @@ https://www.linkedin.com/in/shivant-pandey-6469a1164/
 
 
 
-Developed By :
-Shivant Pandey
+Developed By :Shivant Pandey
+
 Chitkara University
+
 shivant47@gmail.com
+
 +91-7277921877
+
 Thanks
 
