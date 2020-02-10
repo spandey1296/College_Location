@@ -78,6 +78,40 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         LatLng chitkara4 = new LatLng(12.9722046,79.160547);
         mMap.addMarker(new MarkerOptions().position(chitkara4).title("Hii,VELLORE UNIVERSITY").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(chitkara4));
+        
+        
+        
+          LatLng lang = new LatLng(22.3149274,87.3083424);
+        mMap.addMarker(new MarkerOptions().position(lang).title("Hii,IIT ROORKEE").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(lang));
+
+
+        LatLng place1 = new LatLng(26.5123388,80.2307113);
+        mMap.addMarker(new MarkerOptions().position(place1).title("Hii,IIT KANPUR").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(place1));
+
+
+        LatLng place2 = new LatLng(23.2114604,72.681997);
+        mMap.addMarker(new MarkerOptions().position(place2).title("Hii,IIT GANDHINAGAR").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(place2));
+
+        LatLng place3 = new LatLng(10.801716,76.8163603);
+        mMap.addMarker(new MarkerOptions().position(place3).title("Hii,IIT PALAKADD").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(place3));
+
+        LatLng place4 = new LatLng(17.5947027,78.1208514);
+        mMap.addMarker(new MarkerOptions().position(place4).title("Hii,IIT HYDERABAD ").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(place4));
+
+        LatLng place5 = new LatLng(21.1628429,81.6574324);
+        mMap.addMarker(new MarkerOptions().position(place5).title("Hii,IIT BHILAI ").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(place5));
+
+
+        LatLng place6 = new LatLng(22.5203597,75.9185344);
+        mMap.addMarker(new MarkerOptions().position(place6).title("Hii,IIT INDORE").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(place6));
+        
 
 
 
