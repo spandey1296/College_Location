@@ -8,12 +8,9 @@ App is fully safe & secure and it is not acccessing and private data of users.
 You can reach to my Facebook Page for latest information and technology Trends.
 
 
-Fb links: 
-https://www.facebook.com/groups/714004659022843/?ref=bookmarks
+Fb: https://www.facebook.com/groups/714004659022843
 
-LinkedIn Url:
-
-https://www.linkedin.com/in/shivant-pandey-6469a1164/
+LinkedIn: https://www.linkedin.com/in/shivant-pandey-6469a1164/
 
 
 
@@ -23,7 +20,9 @@ link:  https://drive.google.com/open?id=1iszCVZLBMHTYN-L3xo1rXROVND3qrLZ4
 
 
 
-Developed By :Shivant Pandey
+Developed By :
+
+Shivant Pandey
 
 Chitkara University
 
