@@ -111,7 +111,30 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         LatLng place6 = new LatLng(22.5203597,75.9185344);
         mMap.addMarker(new MarkerOptions().position(place6).title("Hii,IIT INDORE").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(place6));
-        
+
+
+
+  LatLng place7 = new LatLng(52.2002043,0.0940849);
+        mMap.addMarker(new MarkerOptions().position(place7).title("CAMBRIDGE UNIVERSITY").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(place7));
+
+  LatLng place8 = new LatLng(27.1751448,78.0399535);
+        mMap.addMarker(new MarkerOptions().position(place8).title("TAJ MAHAL").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(place8));
+
+
+
+  LatLng place9 = new LatLng(28.6143478,77.1972413);
+        mMap.addMarker(new MarkerOptions().position(place9).title("Rashtrapati Bhavan").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(place9));
+
+
+
+
+  LatLng place10 = new LatLng(33.7597855,75.420989);
+        mMap.addMarker(new MarkerOptions().position(place10).title("Dal Lake").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE)));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(place10));
+
 
 
 
